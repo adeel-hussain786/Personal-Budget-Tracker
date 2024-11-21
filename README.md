@@ -70,7 +70,7 @@ Use the "Add Entry" section to add your income or expense. Enter a description, 
 
 
 ### Data Storage 
-![image](https://github.com/user-attachments/assets/4d228270-100f-4ab7-80fc-801a6dfc2683)
+![image](https://github.com/user-attachments/assets/6474bec4-466b-49a2-aed2-3df00e6b0ed0)
 
 ---
 
