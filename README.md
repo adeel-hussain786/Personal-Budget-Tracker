@@ -27,12 +27,12 @@ To get started with the **Budget Tracker** app, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/adeel-hussain786/.Personal-Income-Tracker.git
+git clone https://github.com/adeel-hussain786/.Personal-Budget-Tracker.git
 ```
 
 ### 2. Open in Browser
 
-Navigate to the folder where you cloned the repository, and open the `index.html` file in your web browser to see the app in action.
+Navigate to the folder where you cloned the repository, and open the `Budget.html` file in your web browser to see the app in action.
 
 ### 3. Add Entries
 
@@ -44,7 +44,7 @@ Use the "Add Entry" section to add your income or expense. Enter a description, 
 
 ```
 /Budget Tracker
-  /index.html        # The main HTML file
+  /Budget.html        # The main HTML file
   /Budget.css        # Styles for the web page
   /Budget.js         # JavaScript logic
 ```
@@ -59,17 +59,18 @@ Use the "Add Entry" section to add your income or expense. Enter a description, 
   - Adding transactions to the list.
   - Updating the summary (income, expenses, and balance).
   - Storing transactions in the browser's local storage.
-  - Updating the spending chart using **Chart.js**.
+    
 
 ---
 
 ## Screenshots 📸
 
 ### Main Page
-![Budget Tracker Screenshot](https://example.com/screenshot.png)
+![image](https://github.com/user-attachments/assets/6cfb8e29-c79b-4a59-bdc6-ed47898eb46a)
 
-### Example Chart
-![Spending Chart Screenshot](https://example.com/chart-screenshot.png)
+
+### Data Storage 
+![image](https://github.com/user-attachments/assets/4d228270-100f-4ab7-80fc-801a6dfc2683)
 
 ---
 
@@ -94,7 +95,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Connect with Me 🤗
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter)
-
----
+- [LinkedIn](https://www.linkedin.com/in/adeel-hussain-b2a0a5302/)
+ ---
