@@ -96,4 +96,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Connect with Me 🤗
 
 - [LinkedIn](https://www.linkedin.com/in/adeel-hussain-b2a0a5302/)
+- 📧 [mr.adeelkunbhar@gmail.com](mailto:your-email@example.com)
  ---
